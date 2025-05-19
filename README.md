@@ -38,7 +38,7 @@ SkillVerge Exam Hub is a modern web application designed to help developers test
 
 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/hetram1/SkillVerge
 cd SkillVerge
 ```
 
